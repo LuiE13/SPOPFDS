@@ -1,0 +1,15 @@
+esbenp.prettier-vscode
+dbaeumer.vscode-eslint
+bradlc.vscode-tailwindcss
+ritwickdey.LiveServer
+eamodio.gitlens
+christian-kohler.path-intellisense
+formulahendry.auto-rename-tag
+formulahendry.auto-close-tag
+naumovs.color-highlight
+usernamehw.errorlens
+pkief.material-icon-theme
+xabikos.JavaScriptSnippets
+ms-vscode.vscode-typescript-next
+GitHub.copilot
+GitHub.copilot-chat
