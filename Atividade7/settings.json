@@ -1,0 +1,11 @@
+{
+    "files.autoSave": "afterDelay",
+    "workbench.colorTheme": "Dracula",
+    "editor.minimap.showSlider": "always",
+    "workbench.editor.enablePreview": false,
+    "editor.minimap.enabled": false,
+    "liveServer.settings.donotShowInfoMsg": true,
+    "php.validate.executablePath": "c:/xampp/php/php.exe",
+    "workbench.startupEditor": "none",
+    "workbench.secondarySideBar.defaultVisibility": "hidden"
+}
